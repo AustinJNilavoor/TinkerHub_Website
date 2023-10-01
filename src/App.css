@@ -1,8 +1,8 @@
 .App {
   text-align: center;
-  background-color: #121212;
+  background-color: #F2F2F2;
   min-height: 100vh;
-  color: white;
+  color: #121212;
 }
 .navbar {
   background-color: #121212;
@@ -14,7 +14,8 @@
   top: 0;
   width: 100%;
   justify-content: space-between;
-  z-index: 1;
+  z-index: 2;
+  color: #F2F2F2;
 }
 .nav-items {
   text-align: right;
@@ -36,7 +37,7 @@ a {
   margin-top: 140px;
 }
 .th-head p{
-  color: #cecece;
+  color: #000000;
   margin-top: 0;
 }
 
@@ -68,27 +69,21 @@ padding-left: 14px;
 
 .logo {
   height: 55px;
-  padding-top: 30px;
 }
 
 .Home-section {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
-  min-height: 120vh;
-  margin-left: 10px;
-  margin-right: 10px;
   justify-content: center;
 }
 .section {
   display: flex;
-  flex-direction: row;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
   min-height: 83vh;
   margin-left: 10px;
   margin-right: 10px;
-  padding-top: 45px;
-  justify-content: center;
+  padding-top: 30px;
 }
 
 .footer{
@@ -117,4 +112,32 @@ padding-left: 14px;
 .socials svg{
   padding-left: 20px;
   align-items: center;
+}
+.bg-img{
+  width: 100%;
+  z-index: 1;
+  position: relative;
+}
+
+.overlay{
+  width: 100%; 
+  margin-top: -525px;
+}
+
+.col{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.row{
+  display: flex;
+}
+.bg_about{
+  width: 65%;
+  padding-top: 65px;
+}
+.col h2{
+  justify-content: left;
+  padding-right: 30px;
 }
