@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a5a2f41.css",
+    "main.js": "/static/js/main.22398e2c.js",
+    "static/media/bg_home.png": "/static/media/bg_home.35956552e7dae66a129a.png",
+    "static/media/learn.png": "/static/media/learn.0113cceabf5b7efab54d.png",
+    "static/media/reel.png": "/static/media/reel.c578b7f105f50239e10f.png",
+    "static/media/traj.png": "/static/media/traj.32b76dec930570c9f2bc.png",
+    "static/media/anirudh.png": "/static/media/anirudh.14498ac979b23df79e7a.png",
+    "static/media/austin.png": "/static/media/austin.d16ab920ad2ba8bbb1a8.png",
+    "static/media/swathy.png": "/static/media/swathy.836e8bce3ae81f663690.png",
+    "static/media/Abhijith.png": "/static/media/Abhijith.36a23a8487b91e2b1f1b.png",
+    "static/media/malavika.png": "/static/media/malavika.68902cd28cb520a936b2.png",
+    "static/media/tinkher.png": "/static/media/tinkher.a41ecab55d842d9e2e50.png",
+    "static/media/pravda.png": "/static/media/pravda.18316048db70b4bc0514.png",
+    "static/media/Bg1.png": "/static/media/Bg1.028cbcf3dd90ad98a742.png",
+    "static/media/abhinav.png": "/static/media/abhinav.f5a9d6bcae1c433c333a.png",
+    "static/media/web.png": "/static/media/web.94b3525b0161c6153669.png",
+    "static/media/bg_grey.png": "/static/media/bg_grey.71ac7b1dcd757ce094cc.png",
+    "static/media/logo.svg": "/static/media/logo.53c417c1eccd7a8128bff38879ba377d.svg",
+    "index.html": "/index.html",
+    "main.2a5a2f41.css.map": "/static/css/main.2a5a2f41.css.map",
+    "main.22398e2c.js.map": "/static/js/main.22398e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a5a2f41.css",
+    "static/js/main.22398e2c.js"
+  ]
+}
